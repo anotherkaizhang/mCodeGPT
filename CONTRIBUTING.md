@@ -12,7 +12,7 @@ To get started, follow these steps:
 2. **Clone** your forked repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/mCodeGPT.git
+git clone https://github.com/anotherkaizhang/mCodeGPT.git
 ```
 
 Create a new branch for your feature or bug fix.
