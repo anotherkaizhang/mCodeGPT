@@ -46,7 +46,7 @@ e.g. use GPT-4 with method 2POP:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/anotherkaizhang/mCodeGPT/blob/main/LICENSE)) file for details.
 
 ## Acknowledgments
 
