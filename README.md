@@ -1,6 +1,6 @@
 # mCodeGPT: Automating Cancer Clinical Data Standardization with Large Language Models
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-BSD-blue.svg)](LICENSE)
 
 ## Overview
 
