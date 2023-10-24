@@ -34,3 +34,23 @@ Push your changes to your forked repository on GitHub.
 git push origin feature-name
 ```
 Submit a Pull Request to the main branch of the original repository.
+
+## Pull Request Guidelines
+
+When submitting a pull request, please follow these guidelines:
+
+Make sure your code is well-documented and follows the coding style of the project.
+Provide a clear and detailed explanation of the changes in your pull request.
+If your pull request addresses an issue, reference the issue number in the description.
+Run tests if available and ensure that your changes do not break the existing functionality.
+Be patient. Maintainers will review your pull request as soon as possible.
+Code of Conduct
+Please note that we have a Code of Conduct, and we expect all contributors to adhere to it in all interactions within the project.
+
+## Support and Feedback
+If you have any questions, encounter issues, or need assistance with the contribution process, please feel free to create an issue.
+
+## Acknowledgments
+Thank you for considering contributing to mCodeGPT!
+
+We appreciate your help in making this project better for everyone.
