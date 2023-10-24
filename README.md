@@ -19,7 +19,7 @@ To address the challenges posed by the comprehensive mCODE ontology and token li
 
 ### Root-to-Leaf Streamliner (RLS)
 
-Given the complex hierarchical structure of extensive ontology maps, directly parsing these into prompts for models such as GPT-3.5 can be challenging due to inherent token limitations. RLS strategically harmonizes information from the root node to each leaf node, synthesizing the complete hierarchical information into the leaf node's prompt. This approach constrains the prompts to fit within the token limits of advanced language models while maintaining essential hierarchical context for precise information extraction.
+Given the complex hierarchical structure of extensive ontology maps, directly parsing these into prompts for models such as GPT-3.5 can be challenging due to inherent token limitations. RLS strategically harmonizes information from the root node to each leaf node, synthesizing the complete hierarchical information into the leaf node's prompt. This approach constrains the prompts to fit within the token limits of advanced language models while maintaining an essential hierarchical context for precise information extraction.
 
 ### Breadth-First Ontology Pruner (BFOP)
 
@@ -35,3 +35,10 @@ To get started with mCodeGPT, you can install it using pip:
 
 ```bash
 pip install mcodegpt
+
+## **Usage**:
+e.g. use GPT-3.5 with method RLS:
+>> python main.py -i './examples/input_txt.txt', -k  '<YOUR OPENAI AZURE API KEY>' -b '<YOUR OPENAI AZURE API BASE>' -v '2023-05-15' -d 'mcodegpt_gpt_35' -m 'RLS'
+
+e.g. use GPT-4 with method 2POP:
+>> python main.py -i './examples/input_txt.txt', -k  '<YOUR OPENAI AZURE API KEY>' -b '<YOUR OPENAI AZURE API BASE>' -v '2023-05-15' -d 'mcodegpt_gpt_4' -m '2POP' 
