@@ -41,4 +41,33 @@ e.g. use GPT-3.5 with method RLS:
 >> python main.py -i './examples/input_txt.txt', -k  '<YOUR OPENAI AZURE API KEY>' -b '<YOUR OPENAI AZURE API BASE>' -v '2023-05-15' -d 'mcodegpt_gpt_35' -m 'RLS'
 
 e.g. use GPT-4 with method 2POP:
->> python main.py -i './examples/input_txt.txt', -k  '<YOUR OPENAI AZURE API KEY>' -b '<YOUR OPENAI AZURE API BASE>' -v '2023-05-15' -d 'mcodegpt_gpt_4' -m '2POP' 
+>> python main.py -i './examples/input_txt.txt', -k  '<YOUR OPENAI AZURE API KEY>' -b '<YOUR OPENAI AZURE API BASE>' -v '2023-05-15' -d 'mcodegpt_gpt_4' -m '2POP'
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Mention any contributors, references, or acknowledgments as needed.
+
+## Support
+
+If you have any questions or encounter issues, please feel free to [create an issue](https://github.com/yourusername/yourrepository/issues).
+
+## Contributing
+
+Contributions are welcome! Please see our [Contribution Guidelines](CONTRIBUTING.md) for more information.
+
+## Authors
+
+- [Your Name](https://github.com/yourusername) - [Twitter](https://twitter.com/yourtwitter)
+
+## Citation
+
+If you use mCodeGPT in your research, please cite our paper (if available).
+
+## Related Projects
+
+- List any related projects or resources here.
+
