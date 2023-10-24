@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you have any questions or encounter issues, please feel free to [create an issue](https://github.com/yourusername/yourrepository/issues).
+If you have any questions or encounter issues, please feel free to [create an issue](https://github.com/anotherkaizhang/mCodeGPT/issues).
 
 ## Contributing
 
