@@ -50,7 +50,7 @@ This project is licensed under the BSD License (2-Clause and 3-Clause): - see th
 
 ## Acknowledgments
 
-- Mention any contributors, references, or acknowledgments as needed.
+mCodeGPT project is partially supported by NCI U01CA274576, CPRIT RR180012, and UTHealth internal funding
 
 ## Support
 
