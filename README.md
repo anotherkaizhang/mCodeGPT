@@ -62,7 +62,8 @@ Contributions are welcome! Please see our [Contribution Guidelines](CONTRIBUTING
 
 ## Authors
 
-- [Your Name](https://github.com/yourusername) - [Twitter](https://twitter.com/yourtwitter)
+- [Kai Zhang](https://github.com/anotherkaizhang)
+- [Xiaoqian Jiang](https://github.com/yourusername)
 
 ## Citation
 
