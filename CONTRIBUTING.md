@@ -39,12 +39,13 @@ Submit a Pull Request to the main branch of the original repository.
 
 When submitting a pull request, please follow these guidelines:
 
-Make sure your code is well-documented and follows the coding style of the project.
-Provide a clear and detailed explanation of the changes in your pull request.
-If your pull request addresses an issue, reference the issue number in the description.
-Run tests if available and ensure that your changes do not break the existing functionality.
-Be patient. Maintainers will review your pull request as soon as possible.
-Code of Conduct
+- Make sure your code is well-documented and follows the coding style of the project.
+- Provide a clear and detailed explanation of the changes in your pull request.
+- If your pull request addresses an issue, reference the issue number in the description.
+- Run tests if available and ensure that your changes do not break the existing functionality.
+- Be patient. Maintainers will review your pull request as soon as possible.
+  
+## Code of Conduct
 Please note that we have a Code of Conduct, and we expect all contributors to adhere to it in all interactions within the project.
 
 ## Support and Feedback
