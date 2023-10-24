@@ -1,0 +1,66 @@
+,Key,Value
+0,identifier, Mr. John Doe
+1,collection_site, N/A
+2,specimen_type, N/A
+3,name, John Doe
+4,contact_info, N/A
+5,birth_date, N/A
+6,gender, male
+7,zip_code, N/A
+8,us_core_race, Caucasian
+9,us_core_birth_sex, N/A
+10,us_core_ethnicity, N/A
+11,death_date, NO
+12,evidence_type, N/A
+13,tumor_identifier, Non-Small Cell Lung Cancer (NSCLC)
+14,body_location, Lung
+15,longest_dimension, N/A
+16,other_dimension, N/A
+17,stage_type, Stage IV
+18,staging_method, N/A
+19,leukemia_binet_stage, N/A
+20,leukemia_rai_stage, N/A
+21,gynecologic_figo_stage, N/A
+22,lymphoma_stage, N/A
+23,melanoma_breslow_stage, N/A
+24,melanoma_clark_level, N/A
+25,myeloma_iss_stage, N/A
+26,myeloma_riss_stage, N/A
+27,prostate_gleason_stage, N/A
+28,asserted_date, N/A
+29,histology/morphology, N/A
+30,body_site, N/A
+31,secondary_cancer_condition, N/A
+32,test_type, Tumor Marker Test
+33,result_value, N/A
+34,medication, Pembrolizumab
+35,reason, Cancer-Related Medication Administration
+36,procedure_intent, Cancer-Related Medication Administration
+37,satus_reason, NO
+38,medicaiton, Cisplatin and Gemcitabine
+39,status_reason, N/A
+40,procedure_code, N/A
+41,number_of_sessions, N/A
+42,modality/technique, N/A
+43,radiotherapy_volumn, N/A
+44,history_of_metastatic_cancer, NO information provided
+45,comorbidities, NO information provided
+46,remonic_variant, EGFR mutation and a TP53 mutation
+47,variation_code, N/A
+48,genomic_hgvs, N/A
+49,coding_change_type, N/A
+50,protein_hgvs, N/A
+51,amino_acid_change_type, N/A
+52,molucular_consequence, N/A
+53,cytogen_nomemclature, N/A
+54,gene_studied, N/A
+55,genomic_source_class, N/A
+56,copy_number, N/A
+57,allelic_frequency, N/A
+58,allelic_state, N/A
+59,cytogenetic_location, N/A
+60,gene_mutations, EGFR mutation and a TP53 mutation
+61,coordinate_system, N/A
+62,ranges_examined, N/A
+63,region_description, N/A
+64,reference_sequence, N/A
