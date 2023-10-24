@@ -63,13 +63,9 @@ Contributions are welcome! Please see our [Contribution Guidelines](CONTRIBUTING
 ## Authors
 
 - [Kai Zhang](https://github.com/anotherkaizhang)
-- [Xiaoqian Jiang](https://github.com/yourusername)
+- [Xiaoqian Jiang](https://github.com/x1jiang)
 
 ## Citation
 
 If you use mCodeGPT in your research, please cite our paper (if available).
-
-## Related Projects
-
-- List any related projects or resources here.
 
