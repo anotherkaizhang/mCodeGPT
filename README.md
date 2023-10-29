@@ -36,10 +36,10 @@ To get started with mCodeGPT, you can install it using pip:
 ## **Usage**:
 ```
 e.g. use GPT-3.5 with method RLS:
->> python main.py -i './examples/input_txt.txt' -k  '<YOUR OPENAI AZURE API KEY>' -b '<YOUR OPENAI AZURE API BASE>' -v '2023-05-15' -d 'mcodegpt_gpt_35' -m 'RLS'
+>> python main.py -i './examples/input_txt.txt' -k  '<YOUR OPENAI AZURE API KEY>' -b '<YOUR OPENAI AZURE API BASE>' -v '2023-05-15' -d 'mcodegpt_gpt_35' -m 'RLS' -o filename
 
 e.g. use GPT-4 with method 2POP:
->> python main.py -i './examples/input_txt.txt' -k  '<YOUR OPENAI AZURE API KEY>' -b '<YOUR OPENAI AZURE API BASE>' -v '2023-05-15' -d 'mcodegpt_gpt_4' -m '2POP'
+>> python main.py -i './examples/input_txt.txt' -k  '<YOUR OPENAI AZURE API KEY>' -b '<YOUR OPENAI AZURE API BASE>' -v '2023-05-15' -d 'mcodegpt_gpt_4' -m '2POP' -o filename
 ```
 
 ## License
