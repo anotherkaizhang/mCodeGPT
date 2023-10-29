@@ -20,7 +20,8 @@ if __name__ == '__main__':
     parser.add_argument('-v', '--api_version', help="Specify the Azure OpenAI version file for your program, for example, '2023-05-15'")
     parser.add_argument('-d', '--deployment_name', help="Specify the Azure OpenAI deployment name for your program, for example, 'mcodegpt_gpt_35'")
     parser.add_argument('-m', '--method', help="Specify the prompt generating algorithm for your program, for example, 'RLS', 'BFOP', '2POP'")
-
+    parser.add_argument('-o', '--output', help="Specify the output file name")
+    
     args = parser.parse_args()
 
     with open(args.input_file, 'r') as f:
@@ -36,7 +37,7 @@ if __name__ == '__main__':
 
     df_result = model.run()
 
-    df_result.to_csv('./output.csv')
+    df_result.to_csv('./output/' + args.output + '.csv')
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
