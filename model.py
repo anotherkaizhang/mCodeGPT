@@ -258,7 +258,7 @@ class mCodeGPT:
         # print("CSV file created: output.csv")
 
         # Create a list of dictionaries for key-value pairs
-        data = [{"Key": line.split(':')[0], "Value": line.split(':')[1]} for line in lines]
+        data = [{"Key": line.split(':')[0], "Value": line.split(':')[1]} for line in lines if len(line) >5]
 
         # Create a DataFrame from the list of dictionaries
         df = pd.DataFrame(data)
