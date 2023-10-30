@@ -10,9 +10,9 @@ if __name__ == '__main__':
         description='Standardize free-text data using ontology',
         epilog='Text at the bottom of help')
 
-    df_ontology = pd.read_excel('mcode_structure.xlsx', sheet_name="Ontology")
-    df_prompt = pd.read_excel('mcode_structure.xlsx', sheet_name="Prompt")
-    df_promptYesNo = pd.read_excel('mcode_structure.xlsx', sheet_name="Prompt(yesno)")
+    df_ontology = pd.read_excel('./ontology/mcode_structure.xlsx', sheet_name="Ontology")
+    df_prompt = pd.read_excel('./ontology/mcode_structure.xlsx', sheet_name="Prompt")
+    df_promptYesNo = pd.read_excel('./ontology/mcode_structure.xlsx', sheet_name="Prompt(yesno)")
 
     parser.add_argument('-i','--input_file', help="Specify the input file for your program. For example, './input_file.txt'")
     parser.add_argument('-k', '--api_key', help="Specify the Azure OpenAI API key for your program. For example, 'f90hsd8jnigkmr3253908yrh7gybfgu93qi4'")
